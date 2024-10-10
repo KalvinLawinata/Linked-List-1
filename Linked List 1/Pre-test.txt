@@ -1,0 +1,57 @@
+Apakah pembuatan struct pada gambar ini sudah benar
+A. True
+B. False
+ANSWER: B
+
+Apakah fungsi alokasi memori pada gambar sudah benar 
+A. True
+B. False 
+ANSWER: B
+
+Apakah fungsi is_only_have_one_data(List L) pada gambar sudah benar 
+A. True 
+B. False
+ANSWER: A
+
+Apa fungsi dari memory allocation?
+A. prosedur dimana kita mengalokasikan memori untuk menyimpan data-data yang ada di node linked list
+B. prosedur untuk mengatur bahwa tidak ada node apapun pada linked list
+C. prosedur untuk memasukkan sebuah data dari awal list.
+D. fungsi yang mengembalikan nilai true jika list kosong, dan false jika list mempunyai node
+ANSWER: A
+
+Apa yang terjadi jika memori tidak di free()?
+A. Tidak terjadi apa-apa
+B. Memori akan terlihat masih terpakai dan tidak dapat digunakan oleh proses lain
+C. Memori akan terlihat masih terpakai namun masih dapat digunakan oleh proses lain
+D. Penggunaan memory akan semakin ringan
+ANSWER: B
+
+Apa fungsi dari free() pada prosedur delete_first() dan juga delete_last()?
+A. Membebaskan memori (Jawaban.
+B. Menghapus data
+C.  Mengalokasikan memori
+D. Meng-set alamat data
+ANSWER: A
+
+Apakah prosedur dari delete_last(List *L) sudah benar)? 
+A. True
+B. False
+ANSWER: A
+
+Apakah prosedur insert_last(Last *L, string nama, int npm) di gambar sudah benar 
+A. True
+B. False
+ANSWER: A
+
+Linked list adalah salah satu jenis struktur data yang menggunakan fitur … pada materi yang sudah ada sebelumnya.
+A. Stack
+B. Queue
+C. Pointer
+D. Matriks 
+ANSWER: C
+
+Apakah prosedur delete_first(List *L) sudah betul?
+A. True 
+B. False
+ANSWER: A
